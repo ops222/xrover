@@ -1,1 +1,1 @@
-xRover project
+xRover ROS node
